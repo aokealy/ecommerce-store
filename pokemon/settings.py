@@ -84,6 +84,8 @@ AUTHENTICATION_BACKENDS = [
 
 WSGI_APPLICATION = 'pokemon.wsgi.application'
 
+SITE_ID = 1
+
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
